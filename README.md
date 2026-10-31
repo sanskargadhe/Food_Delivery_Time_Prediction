@@ -139,6 +139,12 @@ Make sure the dataset and trained model files are available in the project direc
 - Add real-time weather and traffic information.
 - Deploy the application online.
 
+## Live Demo
+
+Try the Food Delivery Time Prediction application here:
+
+[**Open Food Delivery Time Predictor**](https://fooddeliverytimeprediction-wef3wcqfjqrsxytwpnpmf8.streamlit.app/)
+
 ## Author
 
 **Sanskar Gadhe**
